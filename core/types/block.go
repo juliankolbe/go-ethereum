@@ -26,9 +26,9 @@ import (
 	"sync/atomic"
 	"time"
 
-	"github.com/ethereum/go-ethereum/common"
-	"github.com/ethereum/go-ethereum/common/hexutil"
-	"github.com/ethereum/go-ethereum/rlp"
+	"github.com/juliankolbe/go-ethereum/common"
+	"github.com/juliankolbe/go-ethereum/common/hexutil"
+	"github.com/juliankolbe/go-ethereum/rlp"
 )
 
 var (

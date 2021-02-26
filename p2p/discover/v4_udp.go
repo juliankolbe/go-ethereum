@@ -29,12 +29,12 @@ import (
 	"sync"
 	"time"
 
-	"github.com/ethereum/go-ethereum/crypto"
-	"github.com/ethereum/go-ethereum/log"
-	"github.com/ethereum/go-ethereum/p2p/discover/v4wire"
-	"github.com/ethereum/go-ethereum/p2p/enode"
-	"github.com/ethereum/go-ethereum/p2p/netutil"
-	"github.com/ethereum/go-ethereum/rlp"
+	"github.com/juliankolbe/go-ethereum/crypto"
+	"github.com/juliankolbe/go-ethereum/log"
+	"github.com/juliankolbe/go-ethereum/p2p/discover/v4wire"
+	"github.com/juliankolbe/go-ethereum/p2p/enode"
+	"github.com/juliankolbe/go-ethereum/p2p/netutil"
+	"github.com/juliankolbe/go-ethereum/rlp"
 )
 
 // Errors

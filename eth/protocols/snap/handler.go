@@ -20,16 +20,16 @@ import (
 	"bytes"
 	"fmt"
 
-	"github.com/ethereum/go-ethereum/common"
-	"github.com/ethereum/go-ethereum/core"
-	"github.com/ethereum/go-ethereum/core/state"
-	"github.com/ethereum/go-ethereum/light"
-	"github.com/ethereum/go-ethereum/log"
-	"github.com/ethereum/go-ethereum/p2p"
-	"github.com/ethereum/go-ethereum/p2p/enode"
-	"github.com/ethereum/go-ethereum/p2p/enr"
-	"github.com/ethereum/go-ethereum/rlp"
-	"github.com/ethereum/go-ethereum/trie"
+	"github.com/juliankolbe/go-ethereum/common"
+	"github.com/juliankolbe/go-ethereum/core"
+	"github.com/juliankolbe/go-ethereum/core/state"
+	"github.com/juliankolbe/go-ethereum/light"
+	"github.com/juliankolbe/go-ethereum/log"
+	"github.com/juliankolbe/go-ethereum/p2p"
+	"github.com/juliankolbe/go-ethereum/p2p/enode"
+	"github.com/juliankolbe/go-ethereum/p2p/enr"
+	"github.com/juliankolbe/go-ethereum/rlp"
+	"github.com/juliankolbe/go-ethereum/trie"
 )
 
 const (

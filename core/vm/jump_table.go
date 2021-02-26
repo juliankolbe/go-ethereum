@@ -17,7 +17,7 @@
 package vm
 
 import (
-	"github.com/ethereum/go-ethereum/params"
+	"github.com/juliankolbe/go-ethereum/params"
 )
 
 type (

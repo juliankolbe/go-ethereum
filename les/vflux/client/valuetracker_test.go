@@ -23,11 +23,11 @@ import (
 	"testing"
 	"time"
 
-	"github.com/ethereum/go-ethereum/common/mclock"
-	"github.com/ethereum/go-ethereum/ethdb/memorydb"
-	"github.com/ethereum/go-ethereum/p2p/enode"
+	"github.com/juliankolbe/go-ethereum/common/mclock"
+	"github.com/juliankolbe/go-ethereum/ethdb/memorydb"
+	"github.com/juliankolbe/go-ethereum/p2p/enode"
 
-	"github.com/ethereum/go-ethereum/les/utils"
+	"github.com/juliankolbe/go-ethereum/les/utils"
 )
 
 const (

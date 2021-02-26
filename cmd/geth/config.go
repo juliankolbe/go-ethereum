@@ -26,13 +26,13 @@ import (
 
 	"gopkg.in/urfave/cli.v1"
 
-	"github.com/ethereum/go-ethereum/cmd/utils"
-	"github.com/ethereum/go-ethereum/eth/ethconfig"
-	"github.com/ethereum/go-ethereum/internal/ethapi"
-	"github.com/ethereum/go-ethereum/log"
-	"github.com/ethereum/go-ethereum/metrics"
-	"github.com/ethereum/go-ethereum/node"
-	"github.com/ethereum/go-ethereum/params"
+	"github.com/juliankolbe/go-ethereum/cmd/utils"
+	"github.com/juliankolbe/go-ethereum/eth/ethconfig"
+	"github.com/juliankolbe/go-ethereum/internal/ethapi"
+	"github.com/juliankolbe/go-ethereum/log"
+	"github.com/juliankolbe/go-ethereum/metrics"
+	"github.com/juliankolbe/go-ethereum/node"
+	"github.com/juliankolbe/go-ethereum/params"
 	"github.com/naoina/toml"
 )
 
